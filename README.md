@@ -6,7 +6,7 @@ This is my implementation of an interactive dashboard built using **Python, Stre
 
 ```sh
 # Clone the repository
-git clone https://github.com/my-username/my-dashboard.git
+git clone https://github.com/janisrebekah/my-dashboard.git
 cd my-dashboard
 
 # Create a virtual environment (optional but recommended)
